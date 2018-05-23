@@ -18,7 +18,7 @@ avatar: "/img/final5x5.png"
 # List of links in the navigation bar
 navbar-links:
   R Potencial: "http://rusersgroup.com/blog/R_potencial/"
-  Blog R:
+  Blogg R:
     - Temario: "publicaciones"
     - Etiquetas: "tags"
   Servicios:
@@ -67,7 +67,8 @@ disqus: "rusersgroup-com"
 google_analytics: "UA-102304043-1"
 
 # Gems
-plugins: [jekyll-paginate]
+plugins_dir: [jekyll-paginate]
+gems: [jekyll-paginate] 
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
