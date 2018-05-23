@@ -18,6 +18,7 @@ avatar: "/img/final5x5.png"
 # List of links in the navigation bar
 navbar-links:
   R Potencial: "http://rusersgroup.com/blog/R_potencial/"
+  Jornadas de R: "jornadas2018"
   Blog R:
     - Temario: "publicaciones"
     - Etiquetas: "tags"
